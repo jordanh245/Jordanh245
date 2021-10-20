@@ -1,7 +1,6 @@
 ### Hi there 👋
+Hello! My name is Jordan and I am a student Web Developer based in Tampa, FL.
 
-<!--
-**jordanh245/jordanh245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
